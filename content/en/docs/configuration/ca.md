@@ -13,7 +13,7 @@ then be used to trust resulting signed certificates.
 This issuer type is typically used in a Public Key Infrastructure (PKI) setup to
 secure your infrastructure components to establish mTLS or otherwise provide a
 means to issue certificates where you also own the private key. Signed
-certificates will _not_ be trusted by clients, such a web browser, by default.
+certificates will _not_ be trusted by clients, such as a web browser, by default.
 
 ## Deployment
 
